@@ -1,5 +1,5 @@
 #qianabusinessgrad
-<h1>Hi, my name is Qiana! A language love and marketing enthusiast <br/><a 
+<h1>Hi, my name is Qiana! A language lover and marketing enthusiast <br/><a 
 href="https://www.linkedin.com/in/qiana-yang-89122b205/">Social Media & Content Marketing Professional & International Business Grad</a></h1>
 
 <h2>👩‍💻 Projects</h2>
