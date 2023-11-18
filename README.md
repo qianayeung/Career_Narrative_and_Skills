@@ -12,19 +12,15 @@ href="https://www.linkedin.com/in/qiana-yang-89122b205/">Social Media & Content 
 <h2>💼 Professional Experience<br/><a
 
 - <b>Salesera</b>
-  - [REMOTE SOCIAL MEDIA MARKETING INTERN (AUG 2023 - NOW)]([https://www.globalcommercemedia.com/](https://salesera.net/)<b><i>
-                                    
+  - [REMOTE SOCIAL MEDIA MARKETING INTERN (AUG 2023 - NOW)]([https://www.globalcommercemedia.com/](https://salesera.net/)<b><i>                               
 - <b>Global Commerce Media</b>
   - [REMOTE CONTENT MARKETING INTERN (DEC 2022 - FEB 2023)](https://www.globalcommercemedia.com/)<b><i>
-
 - <b>EF Education First, CHINA<b>
   - [ENGLISH TEACHING ASSISTANT (AUG 2019 - DEC 2019)]<b><i>
-
 - <b>Zhonghongxinyuelong Accountants</b>
   - [ACCOUNTANT INTERN (APR 2019 - AUG 2019)]<b><i>
-
 <h2>👩🏻‍🤝‍👩🏾 Partnership<br/><a
-                        
+                       
 - <b>The DAO Network</b>
   - [OUTREACH MANAGER (NOV 2023 - NOW)](https://thedaonetwork.carrd.co)<b><i>
                                     
