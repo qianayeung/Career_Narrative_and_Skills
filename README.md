@@ -24,9 +24,9 @@ href="https://www.linkedin.com/in/qiana-yang-89122b205/">Social Media & Content 
   - [ACCOUNTANT INTERN (APR 2019 - AUG 2019)]<b><i>
 
 <h2>👩🏻‍🤝‍👩🏾 Partnership<br/><a
+                        
 - <b>The DAO Network</b>
   - [OUTREACH MANAGER (NOV 2023 - NOW)](https://thedaonetwork.carrd.co)<b><i>
-
                                     
 
 <h2>🎓 Education</h2>
