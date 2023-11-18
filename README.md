@@ -40,7 +40,7 @@ href="https://www.linkedin.com/in/qiana-yang-89122b205/">Social Media & Content 
 
 
 [<img align="left" alt="QianaYang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="QianaYang | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)" />][twitter]
+[<img align="left" alt="QianaYang | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/qiana-yang-89122b205/
 [twitter]: https://twitter.com/QianaY15132
