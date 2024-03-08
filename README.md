@@ -1,62 +1,69 @@
-#qianabusinessgrad
-<h1>Hi, my name is Qiana! A language lover and marketing enthusiast <br/><a 
-href="https://www.linkedin.com/in/qiana-yang-89122b205/">Social Media & Content Marketing Professional & International Business Grad</a></h1>
+### 👋 Hello, I'm Qiana Yeung!
 
-<h2>👩‍💻 Projects</h2>
+I am a passionate professional with a strong background in Internatioanl Business Management and Auditng, and I'm actively seeking new opportunities to contribute my skills and expertise. Here's a breakdown of my preferences across different roles:
 
-- <b>Statistics Research</b>
-  - [Revenue and Marketing Expenses of MicroStrategy](https://docs.google.com/spreadsheets/d/1EHjZ1qy0xp3l2Lriy6qoXbc0ps1qPKcgnAuxrSfAEgQ/edit?usp=sharing)
-- <b>Keyword Cleaning</b>
-  - [Keyword Search](https://docs.google.com/spreadsheets/d/1nbu0O18m2Pwi_vRns69Ea-j-BJ25nxA5sIrp02AFAGo/edit?usp=sharing) <b><i>
+#### 📊 Data Scientist:
+- **Skills**: [machine learning, statistical analysis, financial analytics]
+- **Preferred Technologies**: [Python (Scikit-learn, TensorFlow, PyTorch), R, Jupyter Notebooks, Pandas, NumPy]
+- **Experience**: [SQL Project - Customer Data: Designed and implemented a comprehensive SQL database for customer data, optimising data retrieval and analysis.
+Conducted complex queries and joined multiple tables to extract valuable insights, contributing to informed decision-making.
+Python - Financial Data Forecasting: Developed a Python-based financial data forecasting model using machine learning algorithms.
+Leveraged time series analysis and statistical modeling to predict financial trends, providing valuable insights for strategic planning.]
 
-<h2>💼 Professional Experience<br/><a
+#### 🛠️ Data Engineer:
+- **Skills**: [Data Pipeline Development, ETL Processes]
+- **Preferred Technologies**: [Apache Spark, Apache Hadoop, SQL (e.g., PostgreSQL, MySQL), Apache Kafka, Airflow]
+- **Experience**: [SQL Project - Customer Data: Implemented and maintained an efficient SQL database for customer data, ensuring data integrity and accessibility for the entire team.
+Created optimized SQL queries to handle large datasets, improving data processing efficiency.]
 
-- <b>Salesera</b>
-  - [REMOTE SOCIAL MEDIA MARKETING INTERN (AUG 2023 - NOW)]([https://www.globalcommercemedia.com/](https://salesera.net/)<b><i>                               
-- <b>Global Commerce Media</b>
-  - [REMOTE CONTENT MARKETING INTERN (DEC 2022 - FEB 2023)](https://www.globalcommercemedia.com/)<b><i>
-- <b>EF Education First, CHINA<b>
-  - [ENGLISH TEACHING ASSISTANT (AUG 2019 - DEC 2019)]<b><i>
-- <b>Zhonghongxinyuelong Accountants</b>
-  - [ACCOUNTANT INTERN (APR 2019 - AUG 2019)]<b><i>
-<h2>👩🏻‍🤝‍👩🏾 Partnership<br/><a
-                       
-- <b>The DAO Network</b>
-  - [OUTREACH MANAGER (NOV 2023 - NOW)](https://thedaonetwork.carrd.co)<b><i>
-                                    
+[Python - Coffee Machine Project: Developed a Python-based application to control and monitor a coffee machine, integrating hardware components and ensuring seamless functionality.
+Implemented data logging and error handling features, contributing to the reliability of the coffee machine system.
+]
 
-<h2>🎓 Education</h2>
+#### 📈 Data Analyst:
+- **Skills**: [Visualisation, SQL]
+- **Preferred Tools**: [Tableau, Power BI, Google Data Studio, Microsoft Excel]
+- **Experience**: [SQL Project - Customer Data: Executed SQL queries on customer data to extract key metrics, generating reports that provided actionable insights for marketing and sales teams.
+Collaborated with cross-functional teams to interpret data trends and make data-driven recommendations for business improvement.]
 
-- <b>CMI LEVEL 7 CERTIFICATE IN STRATEGIC MANAGEMENT AND LEADERSHIP, CHARTERED MANAGEMENT INSTITUTE (CMI), JAN 2022</b>
-- <b>UNIVERSITY OF ABERDEEN Master's in International Business Management (Sep 2020 - Sep 2021), Grade: Commendation/Merit</b>
-- <b>HUIZHOU UNIVERSITY Bachelor's in Auditing (Sep 2015 - Sep 2019), GPA: 3.0</b>
+[Python - Financial Data Forecasting:
+Utilised Python for data analysis and visualization, creating interactive dashboards to communicate financial forecasts effectively.
+Collaborated with stakeholders to understand data requirements and delivered customized financial reports.]
+]
 
-<h2>👩🏻‍🏫 Memberships</h2>
-- <b>CIM AFFILIATE PROFESSIONAL MEMBER, THE CHARTED INSTITUTE of MARKETING, NOV 2023 - DEC 2024</b>
+#### 📑 Business Analyst:
+- **Skills**: [List of key skills, e.g., requirements gathering, process improvement]
+- **Domain Expertise**: [Specify any industry or domain expertise, if applicable]
+- **Experience**: [SQL Project - Customer Data: Conducted in-depth analysis of customer data using SQL, identifying patterns and trends to inform marketing strategies.
+Provided actionable insights to improve customer retention and enhance overall customer experience.]
 
+[Python - Calculator: Developed a Python calculator application with a user-friendly interface, streamlining mathematical computations for business analysis tasks.
+Implemented additional features to handle complex calculations and improve overall functionality.
+]
 
+#### 💻 Web Developer:
+- **Skills**: [HTML, CSS, JavaScript]
+- **Frameworks**: [React, Angular, Vue.js]
+- **Tools**: [Visual Studio Code, Git, npm, Chrome Developer Tools]
+- **Projects**: [Python - Black Jack Project: Created a web-based Black Jack game using Python, incorporating front-end and back-end development skills.
+Implemented interactive features and optimized the user interface for an engaging gaming experience.]
 
-<h2> 🤳 Connect with me:</h2>
+[Python - Coffee Machine Project:Integrated a Python-based control system for a coffee machine into a web application, allowing users to customize and order drinks.
+Implemented secure payment processing, enhancing the overall user experience on the platform.]
 
+#### 🖥️ Software Developer:
+- **Skills**: [Programming Languages (e.g., Java, C++, Python)]
+- **Preferred Technologies**: [IDEs (e.g., IntelliJ, Visual Studio), Version Control (e.g., Git), Docker]
+- **Experience**: [Python - Morse Code Translator: Developed a Python-based Morse code translator application, showcasing proficiency in algorithm design and coding.
+Implemented user-friendly features and optimized code for efficient translation between Morse code and text.]
 
-[<img align="left" alt="QianaYang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="QianaYang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[Python - Financial Data Forecasting: Collaborated on a Python-based financial data forecasting model, contributing to the software development life cycle.
+Ensured code modularity and reusability, facilitating easy integration with other components of the software system.]
 
-[linkedin]: https://www.linkedin.com/in/qiana-yang-89122b205/
-[twitter]: https://twitter.com/QianaY15132
-- <b>Check My Portfolio 🔜 (https://learnwithqiana.com/)<b><i>
+### 🌟 Let's Connect!
+I am open to exciting opportunities, collaborations, and conversations. If you believe my skills align with your team's needs, or if you have an interesting project in mind, please feel free to reach out! Let's explore the possibilities together.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me on [LinkedIn]([link-to-your-linkedin](https://www.linkedin.com/in/qiana-yeung-89122b205/)) or [send me an email](mailto:qianayang97@gmail.com).
 
-Here are some ideas to get you started:
+Looking forward to connecting with the amazing community out there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
