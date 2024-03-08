@@ -4,12 +4,12 @@ I am a passionate professional with a strong background in Internatioanl Busines
 
 #### 📊 Data Scientist:
 - **Skills**: [machine learning, statistical analysis, financial analytics]
-- **Preferred Technologies**: [Python (Scikit-learn, TensorFlow, PyTorch), R, Jupyter Notebooks, Pandas, NumPy]
+- **Preferred Technologies**: Python (Scikit-learn, TensorFlow, PyTorch), R, Jupyter Notebooks, Pandas, NumPy
 - **Experience**:  
     - ***SQL Project:*** Customer Data: Designed and implemented a comprehensive SQL database for customer data, optimising data retrieval and analysis.
 Conducted complex queries and joined multiple tables to extract valuable insights, contributing to informed decision-making.
-    - ***Python:*** [Financial Data Forecasting: Developed a Python-based financial data forecasting model using machine learning algorithms.
-Leveraged time series analysis and statistical modeling to predict financial trends, providing valuable insights for strategic planning.]
+    - ***Python:*** Financial Data Forecasting: Developed a Python-based financial data forecasting model using machine learning algorithms.
+Leveraged time series analysis and statistical modeling to predict financial trends, providing valuable insights for strategic planning.
 
 #### 🛠️ Data Engineer:
 - **Skills**: [Data Pipeline Development, ETL Processes]
