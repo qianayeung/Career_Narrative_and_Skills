@@ -6,8 +6,7 @@ I am a passionate professional with a strong background in Internatioanl Busines
 - **Skills**: [machine learning, statistical analysis, financial analytics]
 - **Preferred Technologies**: [Python (Scikit-learn, TensorFlow, PyTorch), R, Jupyter Notebooks, Pandas, NumPy]
 - **Experience**:
-  
-  -**SQL Project**: [Customer Data: Designed and implemented a comprehensive SQL database for customer data, optimising data retrieval and analysis.
+    - **SQL Project:**[Customer Data: Designed and implemented a comprehensive SQL database for customer data, optimising data retrieval and analysis.
 Conducted complex queries and joined multiple tables to extract valuable insights, contributing to informed decision-making.
 
   -Python: [Financial Data Forecasting: Developed a Python-based financial data forecasting model using machine learning algorithms.
