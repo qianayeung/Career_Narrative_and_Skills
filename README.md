@@ -55,7 +55,6 @@ Implemented secure payment processing, enhancing the overall user experience on 
 - **Experience**:
     - ***Python:*** Morse Code Translator: Developed a Python-based Morse code translator application, showcasing proficiency in algorithm design and coding.
 Implemented user-friendly features and optimized code for efficient translation between Morse code and text.  
-
     - ***Python:*** Financial Data Forecasting:/Collaborated on a Python-based financial data forecasting model, contributing to the software development life cycle.
 Ensured code modularity and reusability, facilitating easy integration with other components of the software system.  
 
