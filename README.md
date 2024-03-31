@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Qiana Yeung! [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) 
 
-I am a passionate professional with a strong background in Internatioanl Business Management and Auditng, and I'm actively seeking new opportunities to contribute my skills and expertise. Here's a breakdown of my preferences across different roles:
+I am a passionate professional with a strong background in International Business Management and Auditng, and I'm actively seeking new opportunities to contribute my skills and expertise. Here's a breakdown of my preferences across different roles:
 
 #### 📊 Data Scientist:
 - **Skills**: [machine learning, statistical analysis, financial analytics]
